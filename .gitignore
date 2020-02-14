@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HelloWorld/bin/
+/HelloWorld/obj
+/.vs/HelloWorld/v15/Server/sqlite3
